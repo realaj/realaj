@@ -1,16 +1,14 @@
-### Hi there 👋
+### hi 👋
+im realaj and i do stuff sometimes
+i'm kinda bad but i'm learning ;)
 
-<!--
-**realaj/realaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+here are some things:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 im currently working on discord bot Lord Gaben II
+- 🌱 im currently learning how to code in node.js (i believe in VS Code supremacy)
+- 🤔 im looking for help with node.js and learning discord.js
+- 💬 ask me about graphic design i'm good i promise
+- 📫 how to reach me: https://www.linktr.ee/realaj
+- 😄 pronouns: he/him
+- ⚡ fun fact: i love angular js it is my favorite javascript library
+--> be cool or i will clickjack you
